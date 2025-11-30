@@ -1,0 +1,18 @@
+{
+  "name": "erp-kopicore-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^7.0.1",
+    "express": "^5.1.0",
+    "joi": "^18.0.2",
+    "prisma": "^7.0.1"
+  }
+}
